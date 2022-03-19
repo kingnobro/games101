@@ -6,6 +6,7 @@
 
 #include <eigen3/Eigen/Eigen>
 #include <algorithm>
+#include <array>
 #include "global.hpp"
 #include "Triangle.hpp"
 using namespace Eigen;
@@ -92,7 +93,7 @@ namespace rst
 
         std::vector<Eigen::Vector3f> frame_buf;
 
-        std::vector<float> depth_buf;
+        std::vector<std::array<float, 4>> depth_buf;
         int get_index(int x, int y);
 
         int width, height;
