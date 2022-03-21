@@ -15,7 +15,8 @@
 - z-buffer
 - super-sampling anti-aliasing
 
-[<img src="https://s1.ax1x.com/2022/03/20/qmkgRf.png" alt="qmkgRf.png" style="zoom:50%;" />](https://imgtu.com/i/qmkgRf)
+
+<img src="https://s1.ax1x.com/2022/03/20/qmkgRf.png" alt="qmkgRf.png" width="375" />
 
 ### hw3
 
@@ -24,8 +25,12 @@
 - texture mapping, bump mapping, displacement mapping
 - bilinear interpolation of texture color
 
-[<img src="https://s1.ax1x.com/2022/03/20/qmFKHA.png" alt="qmFKHA.png" style="zoom:50%;" />](https://imgtu.com/i/qmFKHA)
+
+<img src="https://s1.ax1x.com/2022/03/20/qmFKHA.png" alt="qmFKHA.png" width="375" />
 
 
+### hw4
 
+- `de Casteljau` algorithm to draw Bezier curves
 
+<img src="https://s1.ax1x.com/2022/03/21/qn8avQ.png" alt="qn8avQ.png" width="375" />
