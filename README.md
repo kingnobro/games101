@@ -41,4 +41,4 @@
 - sending rays from eye position into the scene
 - implement Möller Trumbore Algorithm
 
-<img src="https://s1.ax1x.com/2022/03/27/q0UH1A.png" alt="q0UH1A.png" width="375" />
+<img src="https://s1.ax1x.com/2022/03/27/q0aYND.png" alt="q0aYND.png" width="375" />
