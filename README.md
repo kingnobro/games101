@@ -42,3 +42,11 @@
 - implement Möller Trumbore Algorithm
 
 <img src="https://s1.ax1x.com/2022/03/27/q0aYND.png" alt="q0aYND.png" width="375" />
+
+
+### hw6
+
+- whether Bounding Box intersects with Ray
+- BVH acceleration
+
+<img src="https://s1.ax1x.com/2022/03/29/qyhS4U.png" alt="qyhS4U.png" width="375" />
