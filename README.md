@@ -50,3 +50,11 @@
 - BVH acceleration
 
 <img src="https://s1.ax1x.com/2022/03/29/qyhS4U.png" alt="qyhS4U.png" width="375" />
+
+
+### hw7
+
+- implementation of path tracing
+- used `openmp` for acceleration
+
+<img src="https://s1.ax1x.com/2022/03/31/qfAC9A.png" alt="qfAC9A.png" width="375" />
