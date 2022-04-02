@@ -58,3 +58,10 @@
 - used `openmp` for acceleration
 
 <img src="https://s1.ax1x.com/2022/03/31/qfAC9A.png" alt="qfAC9A.png" width="375" />
+
+
+### hw8
+
+- springs
+
+<img src="https://s1.ax1x.com/2022/04/02/qIqx2T.png" alt="qIqx2T.png" width="375" />
